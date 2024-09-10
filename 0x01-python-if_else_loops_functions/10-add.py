@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 
-def add(e, d):
-    return e + d
+def add(a, b):
+    return a + b
 
